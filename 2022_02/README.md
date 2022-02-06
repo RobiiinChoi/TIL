@@ -70,3 +70,15 @@
   - 4-13 완료
 
 </details>
+    <details markdown="1">
+
+<summary>2022년 2월 6일</summary>
+
+- 알고리즘 </br>
+    - 이진 탐색
+      - 정렬된 배열에서 특정 수의 개수 구하기
+      - 고정점 찾기
+- 웹개발의 봄 (스파르타)</br>
+  - mySelectShop 프로젝트 완료 및 mysql 디비 연결
+
+</details>
