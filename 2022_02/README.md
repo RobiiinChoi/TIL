@@ -82,3 +82,16 @@
   - mySelectShop 프로젝트 완료 및 mysql 디비 연결
 
 </details>
+    <details markdown="1">
+
+<summary>2022년 2월 7일</summary>
+
+- 알고리즘 </br>
+    - 다익스트라
+      - 기본, 힙으로 구현
+      - 네트워크 딜레이 타임
+      - K 경유지 내 가장 저렴한 항공권 (다시 한번 풀어보기)
+- 스프링리액트찍먹 (스파르타)</br>
+  - API, DB 정리 완료. 프로젝트 내일부터 시작
+
+</details>
