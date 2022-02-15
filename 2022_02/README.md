@@ -181,3 +181,26 @@
     - 완료
 
 </details>
+<details markdown="1">
+
+<summary>2022년 2월 13일</summary>
+
+- 스프링 주특기</br>
+    - Controller - Service 완전 정리 필요 (Controller는 html만 연결, 기능은 전부 Service에서 진행)
+    - 내일부터 다시 진행..
+    - 팀 과제 JPA 정의 업로드. JPA 개념 재정리 함.
+- 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+    - 완료
+
+</details>
+<details markdown="1">
+
+<summary>2022년 2월 14일</summary>
+
+- 김영한 JPA 1</br>
+    - 50% 완료
+    - 아니 API는 파트2로 나오는거 실화.. ㅜㅜ 엉엉...
+- 스파르타 심화강의
+  - JPA 부분 들음
+
+</details>
