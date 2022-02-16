@@ -217,3 +217,12 @@
   - 내일 html 간이로 만들어서 화면에 띄워보고 (5시까지) 배포해볼 예정
 
 </details>
+<details markdown="1">
+
+<summary>2022년 2월 16일</summary>
+
+- 스프링 주특기 </br>
+  - MySql 연결 및 EC2 배포 완료
+- 항해톡 </br>
+  - JPA & MySQL 완료
+</details>
