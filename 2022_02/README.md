@@ -226,3 +226,12 @@
 - 항해톡 </br>
   - JPA & MySQL 완료
 </details>
+<details markdown="1">
+
+<summary>2022년 2월 17일</summary>
+
+- 메타코딩 스프링 시큐리티
+  - 10% 완료. 팀과제 동시 정리
+- 김영한 JPA1</br>
+  - 웹 화면 구현. 18일 반드시 완강
+</details>
