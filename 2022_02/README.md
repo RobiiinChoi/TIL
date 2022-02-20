@@ -246,3 +246,17 @@
   - 깃.. 당분간 깃허브 데스크탑!
   - 빨리 끝내고 강의듣기..
 </details>
+<details markdown="1">
+
+<summary>2022년 2월 19일</summary>
+
+- 스프링 주특기 2주차
+  - 회원가입 완료.. 로그인 구현중
+</details>
+<details markdown="1">
+
+<summary>2022년 2월 19일</summary>
+
+- 스프링 주특기 2주차
+  - 로그인 완료
+</details>
