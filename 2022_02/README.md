@@ -255,8 +255,15 @@
 </details>
 <details markdown="1">
 
-<summary>2022년 2월 19일</summary>
+<summary>2022년 2월 20일</summary>
 
 - 스프링 주특기 2주차
   - 로그인 완료
+</details>
+<details markdown="1">
+
+<summary>2022년 2월 21일</summary>
+
+- 스프링 주특기 2주차
+  - 게시글쪽 서비스 완료. 컨트롤러와 예외처리만 남음.. 내일 화이팅
 </details>
